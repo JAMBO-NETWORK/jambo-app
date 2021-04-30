@@ -1,0 +1,14 @@
+{
+  "name": "@polkadot/contracts-management",
+  "private": true,
+  "version": "0.84.1",
+  "description": "Deployment and management of substrate contracts",
+  "main": "index.js",
+  "scripts": {},
+  "maintainers": [],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@babel/runtime": "^7.13.10",
+    "@polkadot/api-contract": "^4.1.1"
+  }
+}
