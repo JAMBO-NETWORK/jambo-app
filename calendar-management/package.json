@@ -1,0 +1,13 @@
+{
+  "name": "@polkadot/calendar-management",
+  "private": true,
+  "version": "0.84.1",
+  "main": "index.js",
+  "scripts": {},
+  "maintainers": [],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@babel/runtime": "^7.13.10",
+    "@polkadot/react-components": "^0.84.1"
+  }
+}
